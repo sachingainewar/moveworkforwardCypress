@@ -1,0 +1,19 @@
+{
+  "name": "moveworkforward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.5",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@deepakvishwakarma/cucumber-json-formatter": "^0.0.3",
+    "cypress": "^13.10.0",
+    "cypress-cucumber-attach-screenshots-to-failed-steps": "^1.0.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
