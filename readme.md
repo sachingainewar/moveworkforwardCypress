@@ -19,11 +19,13 @@
 
 ### How to run the test case ?
 1. From terminal execute the following command and it will run all the test cases.
-        npx cypress run 
-2. From terminal execute the following command and it will open cypress executor 
-        npx cypress open
-2.1 select the desire browser (chrome ) for e2e testing  
-2.3 And Manually click on "Loginfunctions.feature" link all the test cases runs.
+         ``npx cypress run ``
+2. From terminal execute the following command and it will open cypress executor.
+          `` npx cypress open``
+   
+3.1 select the desire browser (chrome ) for e2e testing.
+
+3.2 And Manually click on "Loginfunctions.feature" link all the test cases runs.
 
 
 
