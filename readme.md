@@ -1,5 +1,5 @@
 # MoveWorkForward Assignment 
-         --- Thanks for the opportunity 
+         - Thanks for the opportunity 
 
 ### Brief :
  1. Test project is develop using cypress + JS using cucumber framework.
